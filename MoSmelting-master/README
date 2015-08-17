@@ -1,0 +1,20 @@
+                          INFO
+Ger.: Durch den Mod lassen sich die Tools einschmelzen (bei holz verbrennen)
+
+                      INSTALLATION
+Ger.:             NORMALE INSTALLATION
+      1.Gehe in den Ordner .minecraft/bin
+      1a.Wenn du nicht weißt wo dein .minecraft Ordner ist drücke bei Windows [Windowstaste]+[r]
+      1b.Gib bei Windows7 "appdata" ins Suchfeld ein dann AppData/Roaming/.minecraft
+      2.Öfne die minecraft.jar
+      3.Lösche den "META-INF" Ordner
+      4.Füge Risugamis ModLoader ein
+      4a."http://www.minecraftforum.net/topic/75440-v125-risugamis-mods-everything-updated/" <- hier ModLoader downloaden
+      5.Füge die Dateien aus dem heruntergeladenen .zip Verzeichnis in die minecraft.jar
+
+                  MC Patcher Installation
+      1.Lade die neueste Version des MC Patcher herunter
+      1a.http://www.minecraftforum.net/topic/232701-12w23b-125update-67-mcpatcher-hd-fix-237-01/
+      2.Klick auf [+] und füg die !!ModLoader.zip!! dem MC Patcher zu !!Wichtig es MUSS eine zip Datei sein!!
+      3.Klick auf [+] und füg die MoSmelting.zip dem MC Patcher zu
+      4.Klick auf patchen
